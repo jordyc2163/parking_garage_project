@@ -216,8 +216,8 @@ class Zones(Parking_Garage):
 
     
 
-lucky = Zones()
-lucky.run()
+lucky_parking = Zones()
+lucky_parking.run()
 
 
 
